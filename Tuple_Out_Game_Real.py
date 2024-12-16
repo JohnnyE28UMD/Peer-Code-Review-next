@@ -144,4 +144,6 @@ def game_loop():
             
             
 game_loop()
+
+#Peer Code Review Question: In one of your code lines you mentioned a score range of 50-100. I was wondering if this was the range the score has to been in for the game to end or can the score be lower than the mentioned range?
             
